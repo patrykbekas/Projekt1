@@ -1,0 +1,35 @@
+.banner {
+	background: url(../img/background.png) no-repeat center / cover;
+	overflow: hidden;
+	display: flex;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+}
+
+.banner .wallpaper {
+	height: 600px;
+	padding: 0 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h1,
+.banner p {
+	color: #fff;
+	margin: 0 0 30px;
+}
+
+.banner h1 { 
+	font-size: 64px; 
+	width: 800px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.banner p { font-size: 21px; }
