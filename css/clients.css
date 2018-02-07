@@ -1,0 +1,43 @@
+.clients {
+    margin-bottom: 20px;
+}
+
+.clients .container {
+    flex-direction: column;
+}
+
+.quote-wrapper {
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.quote-img {
+	max-width: 210px;
+}
+
+.quote-img img {
+	border-radius: 50%;
+	max-width: 100%;
+}
+
+.quote-wrapper blockquote {
+	margin-left: 1.5rem;
+	margin-right: 1.5rem;
+	background-color: #f9f9f9;
+}
+
+.quote-wrapper p {
+	color: #777777;
+}
+
+.order-last {
+	order: -1000;
+}
+
+.quote-wrapper footer {
+	text-align: center;
+	color: green;
+}
