@@ -1,0 +1,15 @@
+.next-project {
+	background: #7cc576;
+}
+
+.next-project .section-header {
+	max-width: 915px;
+	margin: 0 auto;
+	padding: 40px 20px;
+}
+
+.next-project .section-header h2 {
+	font-size: 41px;
+	color: #fff;
+	margin: 0 0 20px;
+}
