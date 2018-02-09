@@ -1,0 +1,17 @@
+.logos {
+    height: 115px;
+    display: flex;
+}
+
+.logos > .container {
+	  display: flex;
+	  align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+	  width: 100%;
+}
+
+.logo-item {
+    max-width: 200px;
+    margin: 2rem 0;
+}
