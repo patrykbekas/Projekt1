@@ -1,0 +1,21 @@
+.footer {
+	display: flex;
+	align-items: center;
+	min-height: 120px;
+	background: #fff;
+}
+
+.footer .container {
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.social {
+	display: flex;
+	flex-direction: row;
+}
+
+.social a {
+	margin: 0 5px;
+}
