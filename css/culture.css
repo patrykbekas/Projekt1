@@ -16,3 +16,10 @@
 	width: 175px;
 	border-bottom: 2px solid #767676;
 }
+
+/* RWD */
+@media (max-width: 1035px) {
+  	.line-after:after {
+    	display: none;
+  	}
+}

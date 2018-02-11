@@ -13,3 +13,14 @@
 	color: #fff;
 	margin: 0 0 20px;
 }
+
+/* RWD */
+@media (max-width: 800px) {
+	.next-project {
+		margin-bottom: 40px;
+	}
+
+	.next-project .section-header h2 {
+		font-size: 30px;
+	}
+}

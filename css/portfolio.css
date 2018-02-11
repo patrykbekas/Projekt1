@@ -48,3 +48,19 @@
 	display: inline-block;
 	padding-left: 1rem;
 }
+
+/* RWD */
+@media (max-width: 860px) {
+    .portfolio {
+        background-image: none;
+        margin-bottom: 0;
+    }
+
+    .project-container {
+        margin: 0 auto;
+    }
+
+    .project-container h3 {
+        text-align: center;
+    }
+}

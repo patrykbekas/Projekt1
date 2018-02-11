@@ -28,3 +28,15 @@
 	font-size: 16px;
 	color: #777777;
 }
+
+/* RWD */
+@media (max-width: 800px) {
+	.feature-boxes {
+		margin-bottom: 0;	
+	}
+	
+	.feature-box {
+		flex-basis: 100%;
+	}
+}
+

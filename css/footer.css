@@ -19,3 +19,10 @@
 .social a {
 	margin: 0 5px;
 }
+
+/* RWD */
+@media (max-width: 990px) {
+	.footer > .container {
+		flex-direction: column;
+	}
+}

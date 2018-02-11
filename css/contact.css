@@ -43,3 +43,10 @@
 .contact-description p {
 	margin: 0;
 }
+
+/* RWD */
+@media (max-width: 700px) {
+	.contact .container {
+		flex-direction: column;
+	}
+}

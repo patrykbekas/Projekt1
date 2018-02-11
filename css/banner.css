@@ -33,3 +33,22 @@
 }
 
 .banner p { font-size: 21px; }
+
+/* RWD */
+@media (max-width: 800px) {
+	.banner h1 {
+		font-size: 50px;
+		max-width: 600px;
+	}
+}
+
+@media (max-width: 450px) {
+	.banner h1 {
+		font-size: 35px;
+		max-width: 420px;
+	}
+
+	.banner p {
+		font-size: 19px;
+	}
+}
