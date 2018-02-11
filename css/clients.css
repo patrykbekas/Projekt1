@@ -41,3 +41,12 @@
 	text-align: center;
 	color: green;
 }
+
+@media (max-width: 800px) {
+	.quote-wrapper {
+		flex-direction: column;
+	}
+	.order-last {
+		order: 0;
+	}
+}
