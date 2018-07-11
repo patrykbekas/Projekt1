@@ -1,3 +1,3 @@
 # Projekt1
 WebChallenge3
-https://patrykbekas.github.io/Projekt1/
+https://patrykbekas.github.io/Treehouse/
